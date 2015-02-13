@@ -13,7 +13,7 @@ Url:		http://savonet.sourceforge.net/
 BuildRequires:	ocaml
 BuildRequires:	ocaml-doc
 BuildRequires:	ocaml-compiler-libs
-BuildRequires:	camlp4-devel
+BuildRequires:	ocaml-camlp4-devel
 BuildRequires:	ocaml-findlib
 
 %description
