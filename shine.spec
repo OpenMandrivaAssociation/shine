@@ -27,6 +27,10 @@ fast on architectures with a FPU!
 Summary:	Libraries needed by shine mp3 encoder
 Group:		System/Libraries
 
+%description -n	%{libname}
+Library for encoding mp3 data which is implemented in fixed-point
+arithmetic.
+
 %package -n	%{devname}
 Summary:	Development files for %{name}
 Group:		Development/Other
