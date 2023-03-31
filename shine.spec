@@ -4,7 +4,7 @@
 
 Name:		shine
 Version:	3.0.0
-Release:	4
+Release:	5
 Summary:	Fixed-point mp3 encoder
 Source0:	http://sourceforge.net/projects/savonet/files/shine/%{name}-%{version}.tar.gz
 License:	GPLv2
