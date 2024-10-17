@@ -9,7 +9,7 @@ Summary:	Fixed-point mp3 encoder
 Source0:	http://sourceforge.net/projects/savonet/files/shine/%{name}-%{version}.tar.gz
 License:	GPLv2
 Group:		System/Libraries
-Url:		http://savonet.sourceforge.net/
+Url:		https://savonet.sourceforge.net/
 BuildRequires:	ocaml
 BuildRequires:	ocaml-doc
 BuildRequires:	ocaml-compiler-libs
