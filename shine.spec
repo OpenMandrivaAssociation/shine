@@ -10,6 +10,11 @@ Source0:	http://sourceforge.net/projects/savonet/files/shine/%{name}-%{version}.
 License:	GPLv2
 Group:		System/Libraries
 Url:		https://savonet.sourceforge.net/
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	ocaml
 BuildRequires:	ocaml-doc
 BuildRequires:	ocaml-compiler-libs
